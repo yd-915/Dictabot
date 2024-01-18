@@ -2,9 +2,9 @@ const _config = {
 
     // Client Settings
     prefix: "s!",
-    token: "your-token",
+    token: "MTE5NzYyMjA1MTUzNjYzMzg2Nw.GdZU2V.lVSaWRQkPHhTk2y0YW25a_qV13BfLVdYugKQXg",
     date_format: "MM-DD-YYYY HH:mm A",
-    copyright: "© 2021 Your Name",
+    copyright: "© 2024 Jabweyne",
     colorhex: "#eb3734",
     voicechanneltojoin: "some-id",
     port: "8080",
@@ -12,10 +12,10 @@ const _config = {
 
     // MySQL Settings
     database: {
-        host: "localhost",
+        host: "roundhouse.proxy.rlwy.net",
         user: "root",
-        password: "",
-        database: "security"
+        password: "cbF3ghC-d4A3aFFFaCb6AbhD1-5dAceC",
+        database: "railway"
     },
 
     clientAPI: {
@@ -68,7 +68,7 @@ const _config = {
 
     },
 
-    defaultimage: "https://i.imgur.com/T9OdSQq.png", // If no evidence is provided
+    defaultimage: "https://i.ibb.co/RjbGVCD/Group-227.png", // If no evidence is provided
     owners: ['865757954950955008'], // These are role IDS that can add staff members to the staff DB
 
     loggingguild: "865663211461017620", // This is a server ID

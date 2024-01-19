@@ -9,7 +9,7 @@ class HDClient extends Client {
     constructor(options = {}) {
         super(options);
 
-        this.config = require(`../config`);
+        this.config = require(`../config.json`);
         this.utils = require(`./utils/utils`);
 
         this.commands = new Collection();

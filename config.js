@@ -2,7 +2,7 @@ const _config = {
 
     // Client Settings
     prefix: "s!",
-    token: "MTE5NzYyMjA1MTUzNjYzMzg2Nw.GdZU2V.lVSaWRQkPHhTk2y0YW25a_qV13BfLVdYugKQXg",
+    token: "",
     date_format: "MM-DD-YYYY HH:mm A",
     copyright: "© 2024 Jabweyne",
     colorhex: "#eb3734",
